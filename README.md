@@ -1,71 +1,102 @@
+
+<p align="center">
+  <img src="assets/fran-bravo-banner.jpg" alt="Fran Bravo - Web Developer" width="100%">
+</p>
+
 # Hola, soy Fran
 
 Estoy construyendo mi camino como **desarrollador backend junior**, con foco en **Python, SQL, Django, Git y GitHub**.
 
-Actualmente estoy cursando formación estructurada en **Desarrollo Web Full Stack en Conquer Blocks**, aunque mi orientación profesional está claramente centrada en el **backend**. Mi prioridad es construir una base técnica sólida y convertir lo que aprendo en proyectos reales, bien organizados y defendibles.
+Actualmente curso un **Máster en Desarrollo Web Full Stack** en Conquer Blocks. Aunque la formación es full stack, mi orientación profesional está claramente centrada en el **backend**: construir una base técnica sólida y convertir lo que aprendo en **proyectos reales, bien organizados, entendibles y defendibles**.
 
-Además, estoy complementando esta formación con aprendizaje aplicado en **desarrollo asistido con inteligencia artificial**, especialmente en el uso práctico de herramientas, prompting, contexto y flujos de trabajo orientados a mejorar productividad, criterio técnico y capacidad de ejecución.
+Además, complemento esta formación con aprendizaje aplicado en **desarrollo asistido con inteligencia artificial**, especialmente en el uso práctico de herramientas, prompting, contexto, agentes y flujos de trabajo orientados a mejorar productividad, criterio técnico y capacidad de ejecución.
 
 ## En qué estoy trabajando ahora
 
-- Python aplicado a lógica, estructura de código y proyectos prácticos
-- Git y GitHub como parte del flujo de trabajo diario
-- SQL y modelado de datos
-- Django para desarrollo web backend
-- Mejora progresiva de proyectos, documentación y criterio técnico
-- Uso práctico de herramientas de IA aplicadas al desarrollo y al aprendizaje técnico
+- Desarrollo backend con **Python** y **Django**
+- Modelado de datos y consultas con **SQL**
+- Flujo de trabajo diario con **Git** y **GitHub**
+- Mejora continua de proyectos, documentación y criterio técnico
+- Despliegue de aplicaciones web reales
+- Uso práctico de IA aplicada al desarrollo y al aprendizaje técnico
 
-## Proyecto destacado
+## Proyectos destacados
 
-### [python-sql-library-manager](https://github.com/fjbravo75/python-sql-library-manager)
+### [Django Task Manager](https://github.com/fjbravo75/django-task-manager)
 
-Aplicación de consola en **Python y SQLite** para gestionar libros, disponibilidad, búsquedas, edición y operaciones CRUD.
+Aplicación web desarrollada con **Django** para la gestión de tareas, listas y organización del trabajo, con enfoque práctico de portfolio y despliegue real.
 
-Este proyecto representa una primera pieza real de mi portfolio y refleja una forma de trabajar centrada en:
+Este proyecto refleja una forma de trabajar centrada en:
 
-- código claro y progresivo
-- persistencia de datos
-- estructura ordenada
+- estructura clara
+- lógica bien separada
+- desarrollo progresivo
 - validaciones útiles
+- mejora iterativa
 - documentación cuidada
-- evolución por versiones y commits con sentido
+
+### [CRM Básico](https://github.com/fjbravo75/crm-basico-django)
+
+Aplicación web desarrollada con **Django** para la gestión de clientes e interacciones, planteada como una pieza sólida de portfolio backend.
+
+Este proyecto pone el foco en:
+
+- organización de datos
+- relaciones entre modelos
+- operaciones CRUD
+- flujo de trabajo realista
+- interfaz funcional y limpia
+- evolución por versiones con sentido
+
+## Experiencia actual
+
+Hasta ahora ya he trabajado de forma práctica con:
+
+- **Python**
+- **Git y GitHub**
+- **SQL**
+- **Django**
+- despliegue de aplicaciones web
+
+Además, ya he llevado aplicaciones más allá del entorno local, trabajando también la parte de publicación, revisión y presentación real de proyectos.
+
+## IA aplicada al desarrollo
+
+También he realizado formación en desarrollo con inteligencia artificial, trabajando aspectos como:
+
+- uso práctico de herramientas de IA en programación
+- prompting técnico
+- contexto aplicado al desarrollo
+- agentes especializados
+- orquestación de agentes
+- flujos de trabajo asistidos por IA
+
+Mi enfoque en este campo no es teórico: me interesa usar estas herramientas con criterio, como apoyo real al desarrollo, al aprendizaje y a la resolución de problemas.
+
+## Cómo me gusta trabajar
+
+Valoro el **código claro**, la **lógica bien pensada**, la **organización**, la **documentación útil** y el aprendizaje aplicado.
+
+Me interesa construir proyectos que no solo funcionen, sino que también se puedan **entender, explicar, mantener y mejorar con criterio**.
+
+## Tecnologías
+
+**Backend y desarrollo**
+- Python
+- Django
+- SQL
+- SQLite
+
+**Flujo de trabajo**
+- Git
+- GitHub
+
+**IA aplicada al desarrollo**
+- prompting técnico
+- agentes y flujos de trabajo asistidos por IA
 
 ## Objetivo actual
 
 Seguir construyendo proyectos cada vez más sólidos, claros y bien presentados mientras consolido mi perfil como **desarrollador backend junior**.
 
-Mi intención no es aprender conceptos de forma aislada, sino convertirlos en trabajo visible, entendible y útil dentro de GitHub.
-
-## Tecnologías
-
-- Python
-- SQL
-- Django
-- Git
-- GitHub
-- SQLite
-
-## Formación en curso
-
-Actualmente estoy completando formación estructurada en **Desarrollo Web Full Stack en Conquer Blocks**, con especial atención a:
-
-- Python
-- Git y GitHub
-- SQL
-- principios de diseño y acceso a datos
-- backend con Django
-- despliegue básico
-
-Los bloques superados dentro de esta formación son acreditables mediante certificados.
-
-También estoy ampliando mi formación con aprendizaje práctico en **desarrollo con inteligencia artificial**, enfocado en metodologías, herramientas y flujos de trabajo que hoy forman parte del entorno real de muchos desarrolladores.
-
-## Cómo me gusta trabajar
-
-Valoro el código claro, la lógica bien pensada, la organización y el aprendizaje práctico.
-
-Me interesa construir proyectos que no solo funcionen, sino que también se puedan entender, explicar y mejorar con criterio.
-
-## Repositorios destacados
-
-Aquí iré reuniendo mis proyectos principales a medida que los vaya completando y refinando.
+Mi objetivo no es aprender conceptos de forma aislada, sino convertirlos en **trabajo visible, entendible y útil dentro de GitHub**.
