@@ -1,102 +1,112 @@
-
 <p align="center">
   <img src="assets/fran-bravo-banner.jpg" alt="Fran Bravo - Web Developer" width="100%">
 </p>
 
 # Hola, soy Fran
 
-Estoy construyendo mi camino como **desarrollador backend junior**, con foco en **Python, SQL, Django, Git y GitHub**.
+Soy desarrollador backend junior con foco en Python, Django y SQL.
 
-Actualmente curso un **Máster en Desarrollo Web Full Stack** en Conquer Blocks. Aunque la formación es full stack, mi orientación profesional está claramente centrada en el **backend**: construir una base técnica sólida y convertir lo que aprendo en **proyectos reales, bien organizados, entendibles y defendibles**.
+Estoy construyendo mi perfil profesional alrededor de aplicaciones web útiles, claras y mantenibles: herramientas de gestión, agendas, clientes, tareas, datos y procesos reales. Me interesa especialmente el backend porque es donde se ordena la lógica del negocio, se modelan los datos y se construye la parte que hace que una aplicación funcione de verdad.
 
-Además, complemento esta formación con aprendizaje aplicado en **desarrollo asistido con inteligencia artificial**, especialmente en el uso práctico de herramientas, prompting, contexto, agentes y flujos de trabajo orientados a mejorar productividad, criterio técnico y capacidad de ejecución.
+Actualmente curso un Máster en Desarrollo Web Full Stack en Conquer Blocks. Aunque la formación es full stack, mi orientación profesional actual está centrada en backend con Python, Django, SQL, Git, despliegue y construcción de proyectos reales.
+
+También trabajo con herramientas de IA aplicadas al desarrollo, no como sustituto del criterio técnico, sino como apoyo para estructurar mejor, revisar, acelerar tareas, documentar y mejorar el proceso de aprendizaje y construcción.
 
 ## En qué estoy trabajando ahora
 
-- Desarrollo backend con **Python** y **Django**
-- Modelado de datos y consultas con **SQL**
-- Flujo de trabajo diario con **Git** y **GitHub**
-- Mejora continua de proyectos, documentación y criterio técnico
-- Despliegue de aplicaciones web reales
-- Uso práctico de IA aplicada al desarrollo y al aprendizaje técnico
+- Desarrollo backend con Python y Django
+- Modelado de datos y consultas con SQL
+- Aplicaciones web server-rendered
+- Proyectos de gestión con lógica de negocio real
+- Despliegue de aplicaciones web
+- Documentación clara de proyectos
+- Uso práctico de IA como apoyo al desarrollo
 
-## Proyectos destacados
+## Proyecto principal
+
+### [Agenda de Citas](https://github.com/fjbravo75/agenda-de-citas)
+
+Aplicación web desarrollada con Django para gestionar agenda, citas, disponibilidad, clientes y servicios en negocios que trabajan por cita.
+
+Es una aplicación server-rendered con Django como fuente de verdad, PostgreSQL en producción, SQLite en local, CSS propio y uso puntual de htmx. También incorpora Wagtail como soporte de administración/CMS dentro del proyecto.
+
+Incluye demo pública en https://agenda.franciscojbravo.com, credenciales de prueba, calendario mensual, detalle diario, gestión de clientes, servicios, bloqueos, cierres manuales, festivos oficiales sincronizados desde BOE, estados de cita y validaciones de disponibilidad.
+
+El proyecto tiene una demo reproducible mediante comando de reset, suite de tests con Django TestCase y preparación para despliegue tradicional con PostgreSQL, Gunicorn y Nginx.
+
+Este proyecto representa bastante bien el tipo de aplicaciones que me interesa construir:
+
+- herramientas útiles para problemas reales
+- lógica de negocio clara
+- modelos de datos bien pensados
+- validaciones operativas
+- interfaz funcional y limpia
+- documentación cuidada
+- demo pública reproducible
+- despliegue real
+- evolución progresiva del producto
+
+## Otros proyectos destacados
 
 ### [Django Task Manager](https://github.com/fjbravo75/django-task-manager)
 
-Aplicación web desarrollada con **Django** para la gestión de tareas, listas y organización del trabajo, con enfoque práctico de portfolio y despliegue real.
+Aplicación web de gestión de tareas tipo kanban, desarrollada con Django y orientada a organizar trabajo mediante tableros, listas y estados.
 
-Este proyecto refleja una forma de trabajar centrada en:
+Refuerza mi interés por construir herramientas que ayuden a ordenar procesos y mejorar la gestión diaria.
 
-- estructura clara
-- lógica bien separada
-- desarrollo progresivo
-- validaciones útiles
-- mejora iterativa
-- documentación cuidada
+### [CRM Básico Django](https://github.com/fjbravo75/crm-basico-django)
 
-### [CRM Básico](https://github.com/fjbravo75/crm-basico-django)
+Aplicación web para gestionar clientes y actividad comercial con Django.
 
-Aplicación web desarrollada con **Django** para la gestión de clientes e interacciones, planteada como una pieza sólida de portfolio backend.
+Proyecto centrado en operaciones CRUD, relaciones entre modelos, organización de datos y flujos de gestión propios de una herramienta interna de negocio.
 
-Este proyecto pone el foco en:
+### [Python SQL Library Manager](https://github.com/fjbravo75/python-sql-library-manager)
 
-- organización de datos
-- relaciones entre modelos
-- operaciones CRUD
-- flujo de trabajo realista
-- interfaz funcional y limpia
-- evolución por versiones con sentido
+Gestor de biblioteca en Python y SQLite con búsquedas, edición y control de disponibilidad.
 
-## Experiencia actual
+Proyecto más sencillo, útil para mostrar base de Python, SQL y manejo de datos fuera del entorno Django.
 
-Hasta ahora ya he trabajado de forma práctica con:
+## Stack principal
 
-- **Python**
-- **Git y GitHub**
-- **SQL**
-- **Django**
-- despliegue de aplicaciones web
+### Backend
 
-Además, ya he llevado aplicaciones más allá del entorno local, trabajando también la parte de publicación, revisión y presentación real de proyectos.
-
-## IA aplicada al desarrollo
-
-También he realizado formación en desarrollo con inteligencia artificial, trabajando aspectos como:
-
-- uso práctico de herramientas de IA en programación
-- prompting técnico
-- contexto aplicado al desarrollo
-- agentes especializados
-- orquestación de agentes
-- flujos de trabajo asistidos por IA
-
-Mi enfoque en este campo no es teórico: me interesa usar estas herramientas con criterio, como apoyo real al desarrollo, al aprendizaje y a la resolución de problemas.
-
-## Cómo me gusta trabajar
-
-Valoro el **código claro**, la **lógica bien pensada**, la **organización**, la **documentación útil** y el aprendizaje aplicado.
-
-Me interesa construir proyectos que no solo funcionen, sino que también se puedan **entender, explicar, mantener y mejorar con criterio**.
-
-## Tecnologías
-
-**Backend y desarrollo**
 - Python
 - Django
 - SQL
+- PostgreSQL
 - SQLite
 
-**Flujo de trabajo**
+### Web
+
+- HTML
+- CSS
+- Aplicaciones server-rendered
+- htmx en proyectos concretos
+
+### Herramientas y entorno
+
 - Git
 - GitHub
+- Linux y terminal
+- Despliegue de aplicaciones web
+- DigitalOcean
 
-**IA aplicada al desarrollo**
+### IA aplicada al desarrollo
+
 - prompting técnico
-- agentes y flujos de trabajo asistidos por IA
+- trabajo con contexto
+- revisión asistida
+- documentación
+- apoyo en diseño y evolución de proyectos
+
+## Cómo me gusta trabajar
+
+Valoro el código claro, la lógica bien pensada y la documentación útil.
+
+Me interesa construir proyectos que no solo funcionen, sino que también se puedan entender, explicar, mantener y mejorar con criterio.
+
+Busco consolidarme como desarrollador backend junior aportando compromiso, aprendizaje rápido, comunicación clara y capacidad para convertir problemas concretos en soluciones prácticas.
 
 ## Objetivo actual
 
-Seguir construyendo proyectos cada vez más sólidos, claros y bien presentados mientras consolido mi perfil como **desarrollador backend junior**.
-
-Mi objetivo no es aprender conceptos de forma aislada, sino convertirlos en **trabajo visible, entendible y útil dentro de GitHub**.
+Seguir creciendo como backend junior con Python, Django y SQL, incorporarme a un equipo donde pueda aportar desde el primer momento y continuar desarrollando proyectos reales con una base técnica cada vez más sólida.
