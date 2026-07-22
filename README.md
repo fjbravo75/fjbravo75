@@ -1,74 +1,91 @@
 <p align="center">
-  <img src="assets/fran-bravo-banner.jpg" alt="Fran Bravo - Web Developer" width="100%">
+  <img src="assets/fran-bravo-banner.jpg"
+       alt="Fran Bravo - Desarrollador web full stack"
+       width="100%">
 </p>
 
 # Hola, soy Fran
 
-Soy desarrollador backend junior con foco en Python, Django y SQL.
+Soy **desarrollador web full stack**, con especial interés profesional en backend, producto y lógica de negocio.
 
-Estoy construyendo mi perfil profesional alrededor de aplicaciones web útiles, claras y mantenibles: herramientas de gestión, agendas, clientes, tareas, datos y procesos reales. Me interesa especialmente el backend porque es donde se ordena la lógica del negocio, se modelan los datos y se construye la parte que hace que una aplicación funcione de verdad.
+Trabajo principalmente con **Python, Django, React, SQL y PostgreSQL** para construir aplicaciones web completas, mantenibles y orientadas a resolver necesidades reales. Me interesa participar en todo el proceso de desarrollo: análisis del problema, modelado de datos, implementación, pruebas, despliegue y documentación.
 
-Actualmente curso un Máster en Desarrollo Web Full Stack en Conquer Blocks. Aunque la formación es full stack, mi orientación profesional actual está centrada en backend con Python, Django, SQL, Git, despliegue y construcción de proyectos reales.
+También incorporo herramientas de inteligencia artificial y flujos agénticos a mi forma de trabajar. Utilizo especialmente tecnologías de OpenAI y Codex para analizar requisitos, explorar alternativas, implementar, revisar, probar y documentar software, manteniendo siempre bajo mi responsabilidad las decisiones técnicas y la validación final.
 
-También trabajo con herramientas de IA aplicadas al desarrollo, no como sustituto del criterio técnico, sino como apoyo para estructurar mejor, revisar, acelerar tareas, documentar y mejorar el proceso de aprendizaje y construcción.
-
-## En qué estoy trabajando ahora
-
-- Desarrollo backend con Python y Django
-- Modelado de datos y consultas con SQL
-- Aplicaciones web server-rendered
-- Proyectos de gestión con lógica de negocio real
-- Despliegue de aplicaciones web
-- Documentación clara de proyectos
-- Uso práctico de IA como apoyo al desarrollo
+Actualmente estoy finalizando el **Máster en Desarrollo Web Full Stack de Conquer Blocks**. Mi Proyecto Fin de Máster se encuentra desarrollado, publicado y pendiente de evaluación.
 
 ## Proyecto principal
 
-### [Agenda de Citas](https://github.com/fjbravo75/agenda-de-citas)
+### [AgendaSalon](https://github.com/fjbravo75/agendasalon)
 
-Aplicación web desarrollada con Django para gestionar agenda, citas, disponibilidad, clientes y servicios en negocios que trabajan por cita.
+AgendaSalon es una aplicación web para gestionar citas, clientes, profesionales y reservas online en peluquerías, barberías y pequeños salones de belleza.
 
-Es una aplicación server-rendered con Django como fuente de verdad, PostgreSQL en producción, SQLite en local, CSS propio y uso puntual de htmx. También incorpora Wagtail como soporte de administración/CMS dentro del proyecto.
+El proyecto nace como entregable técnico de mi Proyecto Fin de Máster, pero ha sido concebido como un producto web completo. Reúne en un mismo sistema la agenda de los profesionales, la operativa interna del negocio, la reserva pública de citas y la administración funcional de la plataforma.
 
-Incluye demo pública en https://agenda.franciscojbravo.com, credenciales de prueba, calendario mensual, detalle diario, gestión de clientes, servicios, bloqueos, cierres manuales, festivos oficiales sincronizados desde BOE, estados de cita y validaciones de disponibilidad.
+Su núcleo está construido con **Django y PostgreSQL**. React se utiliza en interfaces concretas en las que aporta una experiencia más dinámica e interactiva, mientras que Django mantiene la lógica de negocio, los permisos, la seguridad y las operaciones críticas.
 
-El proyecto tiene una demo reproducible mediante comando de reset, suite de tests con Django TestCase y preparación para despliegue tradicional con PostgreSQL, Gunicorn y Nginx.
+Entre sus principales funcionalidades se encuentran:
 
-Este proyecto representa bastante bien el tipo de aplicaciones que me interesa construir:
+- agenda diaria y mensual para profesionales;
+- creación asistida, modificación y seguimiento de citas;
+- reserva online con comprobación de disponibilidad;
+- gestión de clientes, profesionales, servicios, horarios y cierres;
+- aislamiento de datos y permisos por negocio;
+- administración funcional de la plataforma;
+- autenticación, recuperación de acceso y verificación de correo;
+- pruebas automatizadas e integración continua con GitHub Actions;
+- despliegue en producción con PostgreSQL, Gunicorn, Nginx y HTTPS.
 
-- herramientas útiles para problemas reales
-- lógica de negocio clara
-- modelos de datos bien pensados
-- validaciones operativas
-- interfaz funcional y limpia
-- documentación cuidada
-- demo pública reproducible
-- despliegue real
-- evolución progresiva del producto
+**[Ver el repositorio](https://github.com/fjbravo75/agendasalon)** ·
+**[Abrir la demostración](https://agendasalon.brvsoftwarestudio.com)**
 
-## Otros proyectos destacados
+## Otros proyectos
 
 ### [Django Task Manager](https://github.com/fjbravo75/django-task-manager)
 
-Aplicación web de gestión de tareas tipo kanban, desarrollada con Django y orientada a organizar trabajo mediante tableros, listas y estados.
+Aplicación web de gestión de tareas tipo kanban desarrollada con Django.
 
-Refuerza mi interés por construir herramientas que ayuden a ordenar procesos y mejorar la gestión diaria.
+Permite organizar el trabajo mediante tableros, listas y tareas, modificar su estado y moverlas entre diferentes áreas de trabajo. Incluye una interfaz interactiva, control de acceso, pruebas automatizadas y una demostración pública desplegada.
+
+`Django` · `JavaScript` · `HTML` · `CSS`
+
+**[Ver el repositorio](https://github.com/fjbravo75/django-task-manager)** ·
+**[Abrir la demostración](https://task.franciscojbravo.com)**
 
 ### [CRM Básico Django](https://github.com/fjbravo75/crm-basico-django)
 
-Aplicación web para gestionar clientes y actividad comercial con Django.
+Aplicación web para gestionar clientes y actividad comercial.
 
-Proyecto centrado en operaciones CRUD, relaciones entre modelos, organización de datos y flujos de gestión propios de una herramienta interna de negocio.
+El proyecto implementa operaciones CRUD, relaciones entre modelos, control de acceso, seguimiento de actividad y flujos habituales de una herramienta interna de negocio.
+
+`Django` · `Python` · `SQL` · `HTML` · `CSS`
+
+**[Ver el repositorio](https://github.com/fjbravo75/crm-basico-django)** ·
+**[Abrir la demostración](https://crm.franciscojbravo.com)**
+
+### [React CatGallery](https://github.com/fjbravo75/react-02-catgallery)
+
+Aplicación frontend desarrollada con React y publicada en GitHub Pages.
+
+Forma parte de mi evolución práctica en componentes, gestión de estado, consumo de datos e interfaces interactivas.
+
+`React` · `Vite` · `JavaScript` · `CSS`
+
+**[Ver el repositorio](https://github.com/fjbravo75/react-02-catgallery)**
 
 ### [Python SQL Library Manager](https://github.com/fjbravo75/python-sql-library-manager)
 
-Gestor de biblioteca en Python y SQLite con búsquedas, edición y control de disponibilidad.
+Gestor de biblioteca desarrollado con Python y SQLite.
 
-Proyecto más sencillo, útil para mostrar base de Python, SQL y manejo de datos fuera del entorno Django.
+Incluye búsquedas, creación y edición de registros, control de disponibilidad y persistencia de datos. El proyecto muestra mi base de programación, organización de lógica y manejo de bases de datos fuera del entorno Django.
 
-## Stack principal
+`Python` · `SQL` · `SQLite`
 
-### Backend
+**[Ver el repositorio](https://github.com/fjbravo75/python-sql-library-manager)**
+
+## Tecnologías
+
+### Backend y datos
 
 - Python
 - Django
@@ -76,37 +93,74 @@ Proyecto más sencillo, útil para mostrar base de Python, SQL y manejo de datos
 - PostgreSQL
 - SQLite
 
-### Web
+### Frontend
 
 - HTML
 - CSS
-- Aplicaciones server-rendered
-- htmx en proyectos concretos
+- JavaScript
+- React
+- Vite
+- htmx
 
-### Herramientas y entorno
+### Calidad, infraestructura y despliegue
 
-- Git
-- GitHub
+- Git y GitHub
+- pruebas automatizadas
+- integración continua con GitHub Actions
 - Linux y terminal
-- Despliegue de aplicaciones web
+- Gunicorn
+- Nginx
 - DigitalOcean
+- HTTPS
+- configuración de entornos y variables de entorno
 
-### IA aplicada al desarrollo
+## Desarrollo asistido por inteligencia artificial
 
-- prompting técnico
-- trabajo con contexto
-- revisión asistida
-- documentación
-- apoyo en diseño y evolución de proyectos
+He incorporado la inteligencia artificial y los agentes de desarrollo a mi flujo habitual de trabajo.
 
-## Cómo me gusta trabajar
+Utilizo principalmente herramientas de OpenAI y Codex para:
 
-Valoro el código claro, la lógica bien pensada y la documentación útil.
+- analizar requisitos y convertirlos en tareas ejecutables;
+- explorar alternativas técnicas antes de implementar;
+- trabajar con el contexto completo de un repositorio;
+- planificar y dividir trabajos complejos;
+- acelerar tareas de implementación, refactorización y depuración;
+- generar, ejecutar y revisar pruebas;
+- detectar inconsistencias entre código, producto y documentación;
+- documentar decisiones y mantener la trazabilidad del proyecto.
 
-Me interesa construir proyectos que no solo funcionen, sino que también se puedan entender, explicar, mantener y mejorar con criterio.
+No considero la salida de una herramienta de inteligencia artificial como trabajo terminado. Reviso los cambios, ejecuto pruebas y compruebo su comportamiento antes de integrarlos.
 
-Busco consolidarme como desarrollador backend junior aportando compromiso, aprendizaje rápido, comunicación clara y capacidad para convertir problemas concretos en soluciones prácticas.
+La arquitectura, el alcance, la seguridad y la validación final continúan siendo responsabilidad del desarrollador. Entiendo la inteligencia artificial como una herramienta para ampliar la capacidad de análisis y ejecución, no como un sustituto del conocimiento técnico.
 
-## Objetivo actual
+## Cómo trabajo
 
-Seguir creciendo como backend junior con Python, Django y SQL, incorporarme a un equipo donde pueda aportar desde el primer momento y continuar desarrollando proyectos reales con una base técnica cada vez más sólida.
+Me interesa comprender primero el problema, identificar las necesidades reales y modelar correctamente los datos antes de desarrollar una solución.
+
+Construyo los proyectos de forma progresiva, procurando que cada decisión técnica tenga una finalidad clara dentro del producto.
+
+Valoro especialmente:
+
+- el código claro, comprensible y mantenible;
+- la lógica de negocio bien definida;
+- el modelado coherente de los datos;
+- las validaciones, los permisos y la seguridad;
+- las pruebas como parte del proceso de desarrollo;
+- la documentación útil y actualizada;
+- la coherencia entre producto, código y experiencia de usuario;
+- el uso responsable de las herramientas de inteligencia artificial.
+
+Busco que cada proyecto pueda entenderse, ejecutarse, comprobarse, mantenerse y explicarse, no solo que funcione en mi propio entorno.
+
+## Objetivo profesional
+
+Quiero incorporarme a un equipo de desarrollo web donde pueda seguir creciendo como desarrollador full stack, aportar una base sólida de backend y participar en la construcción de productos reales de principio a fin.
+
+Me interesan especialmente los proyectos desarrollados con Python, Django, JavaScript, React, SQL y PostgreSQL, así como los equipos que combinan buenas prácticas de ingeniería con herramientas modernas de desarrollo asistido por inteligencia artificial, utilizadas con criterio, supervisión y responsabilidad técnica.
+
+## Contacto
+
+Estoy abierto a oportunidades profesionales, colaboraciones y proyectos relacionados con el desarrollo web full stack.
+
+- **Correo electrónico:** [fjbravo75@hotmail.com](mailto:fjbravo75@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/francisco-jose-bravo-manzanares](https://www.linkedin.com/in/francisco-jose-bravo-manzanares/)
