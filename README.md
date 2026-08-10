@@ -10,7 +10,7 @@ Soy **desarrollador web full stack orientado al backend**. Trabajo principalment
 
 Me interesa especialmente convertir un problema de negocio en una solución completa: comprender los flujos, modelar los datos, desarrollar la lógica, cuidar los permisos, probar el comportamiento, desplegar la aplicación y documentarla con claridad.
 
-Actualmente estoy finalizando el **Máster en Desarrollo Web Full Stack de Conquer Blocks**. Mi Proyecto Fin de Máster, AgendaSalon, está desarrollado, publicado y pendiente de evaluación.
+Actualmente preparo la **defensa de AgendaSalon**, mi Proyecto Fin de Máster del **Máster en Desarrollo Web Full Stack de Conquer Blocks**. El proyecto está desarrollado, publicado y entregado.
 
 ## Proyecto principal
 
